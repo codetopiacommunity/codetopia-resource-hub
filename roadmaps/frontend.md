@@ -1,7 +1,7 @@
 # Frontend Roadmap and Learning Resources
 
 ## Roadmaps
-[w3schools frontend roadmap](https://www.w3schools.com/whatis/whatis_frontend.asp)
+[w3schools frontend roadmap](https://www.w3schools.com/whatis/)
 : A w3 schools guide to help you get started with frontend development.
 
 [roadmap.sh](https://roadmap.sh/frontend)
