@@ -1,4 +1,4 @@
-# Codetopia Learning Hub
+# Codetopia Resource Hub
 
 Welcome to the Codetopia Learning Hub! This repository is a meticulously curated collection of resources designed to empower developers and tech enthusiasts on their learning journey across various programming languages and technologies.
 
