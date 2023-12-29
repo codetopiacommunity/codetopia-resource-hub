@@ -1,6 +1,6 @@
 # Codetopia Resource Hub
 
-Welcome to the Codetopia Learning Hub! This repository is a meticulously curated collection of resources designed to empower developers and tech enthusiasts on their learning journey across various programming languages and technologies.
+Welcome to the Codetopia Resource Hub! This repository is a meticulously curated collection of resources designed to empower developers and tech enthusiasts on their learning journey across various programming languages and technologies.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@ Welcome to the Codetopia Learning Hub! This repository is a meticulously curated
 
 ## Introduction
 
-Whether you're a seasoned developer refining your skills or a tech enthusiast eager to explore the wonders of technology, the Codetopia Learning Hub is your gateway to a wealth of resources. 
+Whether you're a seasoned developer refining your skills or a tech enthusiast eager to explore the wonders of technology, the Codetopia resource hub is your gateway to a wealth of resources. 
 
 ## Roadmaps
 
