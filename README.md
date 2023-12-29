@@ -16,7 +16,7 @@ Whether you're a seasoned developer refining your skills or a tech enthusiast ea
 
 Explore the [roadmaps](/roadmaps/) directory, which contains curated detailed list of guides and roadmaps for different career paths and technology stacks. These roadmaps act as a compass, guiding you through the essential topics and skills required for your chosen journey.
 
-**roadmap list**
+- [Frontend Roadmap and Resources](/roadmaps/frontend.md)
 
 Feel free to contribute your own roadmaps or suggest improvements to existing list of resources. Let's build a comprehensive collection of roadmaps for the Codetopia community
 
