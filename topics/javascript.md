@@ -7,7 +7,7 @@
 : A modern tutorial that covers everything from the basics to advanced topics in JavaScript. It's well-structured and easy to follow.
 
 
-[Eloquent JavaScript](https://eloquentjavascript.net/)  
+[Eloquent JavaScript](https://eloquentjavascript.net/)
 : A book providing an insightful overview of JavaScript, teaching you how to write beautiful, effective code. It's available to read online for free.
 
 
@@ -15,11 +15,11 @@
 : A stand alone guide, along with videos or quick reference for all the different parts of JavaScript.
 
 
-[Codecademy's JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)  
+[Codecademy's JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 : An interactive platform that will help you learn JavaScript from scratch. It's great for beginners.
 
 
-[FreeCodeCamp](https://www.freecodecamp.org/)  
+[FreeCodeCamp](https://www.freecodecamp.org/)
 : Offers a comprehensive and interactive way to learn JavaScript along with other web technologies. It's a community-driven platform that's entirely free.
 
 
