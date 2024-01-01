@@ -26,7 +26,7 @@ Visit the [Topics](/topics/) directory for a diverse collection of resources tai
 
 - [html-css](/topics/html-css.md) 
 
-Contribute by adding your favorite resources or creating a new file for a language that's not yet covered!
+Contribute by [adding](/Contribution-guidelines.md) your favorite resources or creating a new file for a language that's not yet covered!
 
 ## Contributing
 
