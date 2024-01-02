@@ -1,9 +1,9 @@
 # PHP Resources and articles
-[Official PHP Manual](www.php.net) 
+[Official PHP Manual](https://www.php.net/) 
 : A great starting point with official documentation from the creators of PHP.
 
 
-[PHP: The Right Way](phptherightway.com) 
+[PHP: The Right Way](https://phptherightway.com/) 
 : Covers programming standards and best practices.
 
 
@@ -11,7 +11,7 @@
 : Simple and easy-to-follow guides for beginners.
 
 
-[PHP Apprentice](phpapprentice.com) 
+[PHP Apprentice](https://phpapprentice.com/) 
 : An online book with bite-sized pages and examples.
 
 
