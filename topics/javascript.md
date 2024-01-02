@@ -7,6 +7,9 @@
 : A modern tutorial that covers everything from the basics to advanced topics in JavaScript. It's well-structured and easy to follow.
 
 
+[w3schools - javascript](https://www.w3schools.com/js/)
+: A javascript beginner tutorial by w3schools.
+
 [Eloquent JavaScript](https://eloquentjavascript.net/)
 : A book providing an insightful overview of JavaScript, teaching you how to write beautiful, effective code. It's available to read online for free.
 
@@ -19,7 +22,7 @@
 : An interactive platform that will help you learn JavaScript from scratch. It's great for beginners.
 
 
-[FreeCodeCamp](https://www.freecodecamp.org/)
+[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 : Offers a comprehensive and interactive way to learn JavaScript along with other web technologies. It's a community-driven platform that's entirely free.
 
 
