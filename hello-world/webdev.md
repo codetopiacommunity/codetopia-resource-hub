@@ -60,7 +60,7 @@ After downloading Visual Studio Code, you can install the following extensions t
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - This extension formats your HTML, CSS, and JavaScript code.
 
-You can also install thess extensions by clicking on the `Extensions` icon on the left side of the Visual Studio Code window. Then search for the extensions and click on `Install`.
+You can also install these extensions by clicking on the `Extensions` icon on the left side of the Visual Studio Code window. Then search for the extensions and click on `Install`.
 
 ///**Extensions installing gif goes here**///
 
