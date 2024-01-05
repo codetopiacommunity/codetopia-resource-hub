@@ -120,7 +120,7 @@ In your `style.css` file, type the following code:
 
 ```css
 body {
-    background-color: #f5f5f5;
+    background-color: turquoise;
     font-family: Arial, Helvetica, sans-serif;
 }
 ```
