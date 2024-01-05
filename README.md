@@ -4,6 +4,7 @@ Welcome to the Codetopia Resource Hub! This repository is a meticulously curated
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Hello, World!](#hello-world)
 - [Roadmaps](#roadmaps)
 - [Topics](#Topics)
 - [Contributing](#contributing)
@@ -11,6 +12,13 @@ Welcome to the Codetopia Resource Hub! This repository is a meticulously curated
 ## Introduction
 
 Whether you're a seasoned developer refining your skills or a tech enthusiast eager to explore the wonders of technology, the Codetopia resource hub is your gateway to a wealth of resources. 
+
+## Hello, World!
+
+If you're new to programming and tech in general,you may be wondering where to start. The [Hello, World!](/hello-world/) directory is a great place to begin your journey. It contains a collection of guides on how to setup and resources to help you get started (writing your first 'hello world' program) in your field of interest. 
+
+- [web development](/hello-world/webdev.md)
+
 
 ## Roadmaps
 
