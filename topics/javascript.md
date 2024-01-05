@@ -10,12 +10,17 @@
 [w3schools - javascript](https://www.w3schools.com/js/)
 : A javascript beginner tutorial by w3schools.
 
+
 [Eloquent JavaScript](https://eloquentjavascript.net/)
 : A book providing an insightful overview of JavaScript, teaching you how to write beautiful, effective code. It's available to read online for free.
 
 
 [WesBos](https://wesbos.com/javascript/)
 : A stand alone guide, along with videos or quick reference for all the different parts of JavaScript.
+
+
+[Javascript for cats](http://jsforcats.com/)
+: A beginner's tutorial that teaches you JavaScript through a series of cartoon cats.
 
 
 [Codecademy's JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
