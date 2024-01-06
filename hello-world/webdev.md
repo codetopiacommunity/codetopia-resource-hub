@@ -5,6 +5,8 @@
 - [Web Development](#web-development)
 - [Tools and Software](#tools-and-software)
 - [Download VS Code Extensions](#download-vs-code-extensions)
+    - [Setup Prettier](#setup-prettier)
+    - [Setup up Live Server](#setup-liveserver)
 - [Setup](#setup)
     - [1. Create a project folder for organizing your files](#1-create-a-project-folder-for-organizing-your-files)
     - [2. Open the project folder in your text editor](#2-open-the-project-folder-in-your-text-editor)
@@ -63,6 +65,19 @@ After downloading Visual Studio Code, you can install the following extensions t
 You can also install these extensions by clicking on the `Extensions` icon on the left side of the Visual Studio Code window. Then search for the extensions and click on `Install`.
 
 ///**Extensions installing gif goes here**///
+
+### Setup Prettier
+
+After installing the Prettier extension, you need to set it as the default formatter for HTML, CSS, and JavaScript files. You can do this by clicking on `File` and selecting `Preferences` and then `Settings`. You can also use the keyboard shortcut `Ctrl + ,` (Windows) or `Cmd + ,` (Mac). Then search for `Default Formatter` and select `Prettier - Code formatter` from the dropdown menu.
+
+//**Prettier setup gif goes here**///
+
+
+### Setup up LiveServer
+
+After installing the Live Server extension, you need to set it as the default browser for HTML files. You can do this by clicking on `File` and selecting `Preferences` and then `Settings`. You can also use the keyboard shortcut `Ctrl + ,` (Windows) or `Cmd + ,` (Mac). Then search for `Live Server > Settings: Custom Browser` and select `Default` from the dropdown menu. (we recommend using Google Chrome as your default browser)
+
+//**Live Server setup gif goes here**///
 
 
 ## Setup
