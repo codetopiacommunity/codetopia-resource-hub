@@ -64,7 +64,7 @@ After downloading Visual Studio Code, you can install the following extensions t
 
 You can also install these extensions by clicking on the `Extensions` icon on the left side of the Visual Studio Code window. Then search for the extensions and click on `Install`.
 
-///**Extensions installing gif goes here**///
+![Installing Extension](gifs/Install-Extension.gif)
 
 ### Setup Prettier
 
