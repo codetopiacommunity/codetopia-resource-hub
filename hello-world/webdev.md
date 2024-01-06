@@ -6,7 +6,7 @@
 - [Tools and Software](#tools-and-software)
 - [Download VS Code Extensions](#download-vs-code-extensions)
     - [Setup Prettier](#setup-prettier)
-    - [Setup up Live Server](#setup-liveserver)
+    - [Setup Live Server](#setup-liveserver)
 - [Setup](#setup)
     - [1. Create a project folder for organizing your files](#1-create-a-project-folder-for-organizing-your-files)
     - [2. Open the project folder in your text editor](#2-open-the-project-folder-in-your-text-editor)
