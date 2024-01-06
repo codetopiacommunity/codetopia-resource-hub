@@ -70,7 +70,7 @@ You can also install these extensions by clicking on the `Extensions` icon on th
 
 After installing the Prettier extension, you need to set it as the default formatter for HTML, CSS, and JavaScript files. You can do this by clicking on `File` and selecting `Preferences` and then `Settings`. You can also use the keyboard shortcut `Ctrl + ,` (Windows) or `Cmd + ,` (Mac). Then search for `Default Formatter` and select `Prettier - Code formatter` from the dropdown menu.
 
-//**Prettier setup gif goes here**///
+![Enable Prettier](gifs/Enable-Prettier.gif)
 
 
 ### Setup up LiveServer
