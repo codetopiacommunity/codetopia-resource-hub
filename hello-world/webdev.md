@@ -77,7 +77,7 @@ After installing the Prettier extension, you need to set it as the default forma
 
 After installing the Live Server extension, you need to set it as the default browser for HTML files. You can do this by clicking on `File` and selecting `Preferences` and then `Settings`. You can also use the keyboard shortcut `Ctrl + ,` (Windows) or `Cmd + ,` (Mac). Then search for `Live Server > Settings: Custom Browser` and select `Default` from the dropdown menu. (we recommend using Google Chrome as your default browser)
 
-//**Live Server setup gif goes here**///
+![LiveServer Setup](gifs/LiveServer-CustomBrowser.gif)
 
 
 ## Setup
