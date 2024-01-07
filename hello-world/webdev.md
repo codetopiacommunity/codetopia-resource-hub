@@ -98,7 +98,7 @@ Next, open the project folder in your text editor. You can do this by right-clic
 
 In your text editor, create a new file and name it `index.html`. This is the file that will contain your HTML code. You can do this by clicking on `File` and selecting `New File`. You can also use the keyboard shortcut `Ctrl + N` (Windows) or `Cmd + N` (Mac). Or you can just click on the new file icon on the left side of the Visual Studio Code window.
 
-///**create a new html file gif goes here**///
+![HMTL Creation](gifs/Html-Creation.gif)
 
 
 **Note:** The `.html` extension indicates that this is an HTML file.
