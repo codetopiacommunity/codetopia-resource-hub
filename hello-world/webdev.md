@@ -6,7 +6,7 @@
 - [Tools and Software](#tools-and-software)
 - [Download VS Code Extensions](#download-vs-code-extensions)
     - [Setup Prettier](#setup-prettier)
-    - [Setup Live Server](#setup-liveserver)
+    - [Setup Liveserver](#setup-up-liveserver)
 - [Setup](#setup)
     - [1. Create a project folder for organizing your files](#1-create-a-project-folder-for-organizing-your-files)
     - [2. Open the project folder in your text editor](#2-open-the-project-folder-in-your-text-editor)
@@ -124,10 +124,11 @@ After saving the file, you can now run your first web page. You can do this by r
 
 N.B: This will only work if you have installed the Live Server extension.
 
+///**open with live server gif goes here**///
 
 ### 5. Create a CSS file
 
-Next, create a new file and name it `style.css`. This is the file that will contain your CSS code. You can do this by clicking on `File` and selecting `New File`. You can also use the keyboard shortcut `Ctrl + N` (Windows) or `Cmd + N` (Mac). Or you can just click on the new file icon on the left side of the Visual Studio Code window.
+Next, create a new file and name it `style.css`. Use the same method you used to create the `index.html` file.
 
 **Note:** The `.css` extension indicates that this is a CSS file.
 
@@ -150,6 +151,17 @@ Next, you need to link your CSS file to your HTML file. You can do this by addin
 <link rel="stylesheet" href="style.css">
 ```
 
+like this:
+
+```html
+...
+<head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+...
+```
+
 CSS files are linked to HTML files using the `<link>` tag. The `rel` attribute specifies the relationship between the current document and the linked document. The `href` attribute specifies the location of the linked document.
 
 Now save the file. You should see the changes in your web browser.
@@ -157,6 +169,8 @@ Now save the file. You should see the changes in your web browser.
 ## Auto Save in VS Code
 
 By now you should have noticed that you have to save your files every time you make changes to them. This can be a bit annoying. But there is a way to automatically save your files in Visual Studio Code. You can do this by clicking on `File` and selecting `Auto Save`. You can also use the keyboard shortcut `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac) and type `Auto Save`. Then select `File: Auto Save`.
+
+///**auto save gif goes here**///
 
 
 ### 7. Create a JavaScript file
@@ -179,10 +193,23 @@ In order to run your JavaScript code, you need to link your JavaScript file to y
 <script src="script.js"></script>
 ```
 
+like this:
+
+```html
+...
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first web page.</p>
+    <script src="script.js"></script>
+</body>
+...
+```
+
 JavaScript files are linked to HTML files using the `<script>` tag. The `src` attribute specifies the location of the linked document.
 
 The output of the JavaScript code will be displayed in the console of your web browser. You can open the console by right-clicking on your web page and selecting `Inspect`. Then click on the `Console` tab. You should see the output of your JavaScript code saying `Hello, World!`.
 
+///**launch console and show result gif goes here**///
 ## Congratulations!
 
 You have successfully setup your development environment and written your first 'hello world' program in HTML, CSS, and JavaScript. Now you can start building your own websites and web applications.
