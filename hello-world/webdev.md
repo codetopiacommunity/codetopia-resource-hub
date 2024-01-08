@@ -124,7 +124,7 @@ After saving the file, you can now run your first web page. You can do this by r
 
 N.B: This will only work if you have installed the Live Server extension.
 
-///**open with live server gif goes here**///
+![Live Server Serve](gifs/LiveServer-Serve.gif)
 
 ### 5. Create a CSS file
 
@@ -170,7 +170,7 @@ Now save the file. You should see the changes in your web browser.
 
 By now you should have noticed that you have to save your files every time you make changes to them. This can be a bit annoying. But there is a way to automatically save your files in Visual Studio Code. You can do this by clicking on `File` and selecting `Auto Save`. You can also use the keyboard shortcut `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac) and type `Auto Save`. Then select `File: Auto Save`.
 
-///**auto save gif goes here**///
+![Auto Save](gifs/Auto-Save.gif)
 
 
 ### 7. Create a JavaScript file
