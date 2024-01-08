@@ -209,7 +209,7 @@ JavaScript files are linked to HTML files using the `<script>` tag. The `src` at
 
 The output of the JavaScript code will be displayed in the console of your web browser. You can open the console by right-clicking on your web page and selecting `Inspect`. Then click on the `Console` tab. You should see the output of your JavaScript code saying `Hello, World!`.
 
-///**launch console and show result gif goes here**///
+![Launch Console](gifs/Console.gif)
 ## Congratulations!
 
 You have successfully setup your development environment and written your first 'hello world' program in HTML, CSS, and JavaScript. Now you can start building your own websites and web applications.
