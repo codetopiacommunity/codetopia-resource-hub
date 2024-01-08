@@ -124,7 +124,7 @@ After saving the file, you can now run your first web page. You can do this by r
 
 N.B: This will only work if you have installed the Live Server extension.
 
-///**open with live server gif goes here**///
+![Live Server Serve](gifs/LiveServer-Serve.gif)
 
 ### 5. Create a CSS file
 
@@ -170,7 +170,7 @@ Now save the file. You should see the changes in your web browser.
 
 By now you should have noticed that you have to save your files every time you make changes to them. This can be a bit annoying. But there is a way to automatically save your files in Visual Studio Code. You can do this by clicking on `File` and selecting `Auto Save`. You can also use the keyboard shortcut `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac) and type `Auto Save`. Then select `File: Auto Save`.
 
-///**auto save gif goes here**///
+![Auto Save](gifs/Auto-Save.gif)
 
 
 ### 7. Create a JavaScript file
@@ -209,7 +209,7 @@ JavaScript files are linked to HTML files using the `<script>` tag. The `src` at
 
 The output of the JavaScript code will be displayed in the console of your web browser. You can open the console by right-clicking on your web page and selecting `Inspect`. Then click on the `Console` tab. You should see the output of your JavaScript code saying `Hello, World!`.
 
-![Launch Console](gifs/Console.gif)
+///**launch console and show result gif goes here**///
 ## Congratulations!
 
 You have successfully setup your development environment and written your first 'hello world' program in HTML, CSS, and JavaScript. Now you can start building your own websites and web applications.
