@@ -92,7 +92,7 @@ First, create a project folder on your computer. You can name it anything you wa
 
 Next, open the project folder in your text editor. You can do this by right-clicking on the project folder and selecting `Open with Code` (This is common for windows users). If you are on other platforms, you can just open Visual Studio Code, click on `File` and select `Open Folder`. Then select the project folder you created in step 1.
 
-![Open Folder](gifs/Directory-Open.gif)
+![Open Folder](gifs/Directoryopen.gif)
 
 ### 3. Create an HTML file
 
