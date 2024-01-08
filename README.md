@@ -35,6 +35,7 @@ Visit the [Topics](/topics/) directory for a diverse collection of resources tai
 - [html-css](/topics/html-css.md) 
 - [javascript](/topics/javascript.md)
 - [php](/topics/php.md)
+- [linux](/topics/linux.md)
 - [version control system](/topics/vcs.md)
 
 Contribute by [adding](/Contribution-guidelines.md) your favorite resources or creating a new file for a language that's not yet covered!
