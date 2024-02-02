@@ -7,6 +7,10 @@
 : A w3 schools guide to help you get started with HTML.
 
 
+[HTML cheatsheet](https://htmlcheatsheet.com/)
+: An HTML cheetsheet for developers, created  by HTML6.com.
+
+
 [CSS basics by w3schools](https://www.w3schools.com/css/)
 : A w3 schools guide to help you get started with CSS.
 
@@ -19,6 +23,9 @@
 : A MDN guide to help you get started with CSS.
 
 
+[CSS cheatsheet](https://htmlcheatsheet.com/css/)
+: A CSS cheatsheet by HTMLCheatSheet.com
+
+
 [CSS tricks](https://css-tricks.com/)
 : A website with articles and guides on CSS.
-
